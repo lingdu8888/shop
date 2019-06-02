@@ -1,7 +1,4 @@
-#TlShop
----
 
- 图灵双十一电商系统是一套基于Dubbo的大型分布式、高可用电商平台，可用于互联网电子商务、企业电子商务、互联网医疗、以及大型互联网门户等系统。
    
 ## tlshop技术选型
 技术选型如下:
@@ -30,8 +27,6 @@
 * 前台: [http://xxxx/shop-web](http://xxx/shop-web)
 * 后台: [http://xxxx/shop-admin](http://xxxx/shop-admin) (admin/123456)
 
-### 技术交流
-悟空QQ：245553999（备注：11）
 
 
 
